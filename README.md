@@ -25,6 +25,9 @@ hexagon-bst-project/
 ├─ makefile
 └─ README.md
 ```
+## Veri Dosyası
+- `veriler.txt`: BST yapısında kullanılan şekil verileri bu dosyadan okunur.  
+  Program çalışırken yapılan ekleme ve silme işlemleri dosyaya yazılarak kalıcı hale getirilir.
 
 
 ## Not
